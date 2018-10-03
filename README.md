@@ -1,2 +1,2 @@
 # Epedia-scraper
-Scraper for elanthipedia.org
+Web scrapes data from Elathipedia.org
