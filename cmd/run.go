@@ -5,25 +5,10 @@ import (
 	"epediaScraper/scraper"
 	"fmt"
 	"github.com/spf13/cobra"
+	"io/ioutil"
 )
 
-var CraftsToScrape = [...]string{
-	"Armorsmithing",
-	"Blacksmithing",
-	"Weaponsmithing",
-	"Carving",
-	"Shaping",
-	"Tinkering",
-	"Tailoring",
-	"Remedies",
-}
-
 var Scrape string
-
-var craftMap struct {
-	name string
-	craftItem
-}
 
 func init() {
 	runCmd.Flags().StringVarP(&Scrape, "toScrape", "s", "none", "The item to scrape.\n One of the following:\n1. Crafts\n2. Critters")
@@ -35,20 +20,33 @@ var runCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		switch Scrape {
 		case "Crafts":
-			var allCraft = map[string]interface{}{}
-			for _, craft := range CraftsToScrape {
+			var allCraft = make(map[string]map[string]scraper.CraftItem)
+			for _, craft := range scraper.CraftsToScrape {
 				craftItemsMaps := scraper.ScrapeCraft(craft)
 				allCraft[craft] = craftItemsMaps
 			}
 
-			test, err := json.Marshal(allCraft)
+			jsonData, err := json.MarshalIndent(allCraft, "", "  ")
 			if err != nil {
 				fmt.Println(err)
-			} else {
-				fmt.Println(test)
 			}
-		case "Critters":
 
+			writeJsonToFile("craftItems.json", jsonData)
+		case "Critters":
+			allCritters := scraper.ScrapeCritters()
+
+			jsonData, err := json.MarshalIndent(allCritters, "", "  ")
+			if err != nil {
+				fmt.Println(err)
+			}
+
+			writeJsonToFile("critters.json", jsonData)
 		}
 	},
+}
+
+func writeJsonToFile(fileName string, jsonData []byte) bool {
+	filePath := fmt.Sprintf("data/%v", fileName)
+	err := ioutil.WriteFile(filePath, jsonData, 0644)
+	return err == nil
 }

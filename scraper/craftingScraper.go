@@ -8,35 +8,40 @@ import (
 	"strings"
 )
 
-type CraftItem struct {
-	chapter    int
-	item       string
-	book       string
-	difficulty int
-	notes      string
-	technique  string
-	volume     []string
+var CraftsToScrape = [...]string{
+	"Armorsmithing",
+	"Blacksmithing",
+	"Weaponsmithing",
+	"Carving",
+	"Shaping",
+	"Tinkering",
+	"Tailoring",
+	"Remedies",
 }
 
-func ScrapeCraft(craftToScrape string) map[string]*CraftItem {
+type CraftItem struct {
+	Chapter    int      `json:"chapter"`
+	ItemName   string   `json:"itemname"`
+	Book       string   `json:"book"`
+	Difficulty int      `json:"difficulty"`
+	Notes      string   `json:"notes"`
+	Technique  string   `json:"technique"`
+	Volume     []string `json:"volume"`
+}
+
+func ScrapeCraft(craftToScrape string) map[string]CraftItem {
 	url := fmt.Sprintf("https://elanthipedia.play.net/%v_products", craftToScrape)
 	c := colly.NewCollector()
-	firstColumn := ""
 	// Only used for Weaponsmithing page because the tables are messed up
 	chapterNum := 0
 
-	if craftToScrape == "Weaponsmithing" {
-		firstColumn = "Item"
-	} else {
-		firstColumn = "Chapter"
-	}
-
-	var items = map[string]*CraftItem{}
+	var items = make(map[string]CraftItem)
 
 	// Find and visit all links
 	c.OnHTML("table", func(e *colly.HTMLElement) {
 		if e.Attr("class") == "wikitable sortable" {
-			if strings.Split(e.ChildText("th"), "  ")[0] == firstColumn {
+			if strings.Split(e.ChildText("th"), "  ")[0] == "Chapter" ||
+				strings.Split(e.ChildText("th"), "  ")[0] == "Item" {
 				chapterIndex := -1
 				itemIndex := -1
 				bookIndex := -1
@@ -71,32 +76,37 @@ func ScrapeCraft(craftToScrape string) map[string]*CraftItem {
 							}
 						})
 					} else {
-						newItem := &CraftItem{}
+						newItem := CraftItem{}
 						f.ForEach("td", func(index int, g *colly.HTMLElement) {
 							switch index {
 							case chapterIndex:
-								newItem.chapter, _ = strconv.Atoi(strings.TrimSpace(g.Text))
+								newItem.Chapter, _ = strconv.Atoi(strings.TrimSpace(g.Text))
 							case itemIndex:
 								replacer := strings.NewReplacer("<", "", ">", "", "  ", " ")
-								newItem.item = replacer.Replace(strings.TrimSpace(g.Text))
+								newItem.ItemName = replacer.Replace(strings.TrimSpace(g.Text))
 							case bookIndex:
-								newItem.book = strings.TrimSpace(g.Text)
+								newItem.Book = strings.TrimSpace(g.Text)
 							case difficultyIndex:
 								reg := regexp.MustCompile(`^(\d+)`)
-								newItem.difficulty, _ = strconv.Atoi(reg.FindString(strings.TrimSpace(g.Text)))
+								newItem.Difficulty, _ = strconv.Atoi(reg.FindString(strings.TrimSpace(g.Text)))
 							case notesIndex:
-								newItem.notes = strings.TrimSpace(g.Text)
+								newItem.Notes = strings.TrimSpace(g.Text)
 							case techniqueIndex:
-								newItem.technique = strings.TrimSpace(g.Text)
+								newItem.Technique = strings.TrimSpace(g.Text)
 							case volumeIndex:
-								newItem.volume = strings.Split(strings.TrimSpace(g.Text), ", ")
+								replacer := strings.NewReplacer(" pieces", "",
+									" piece", "",
+									" and ", "|",
+									", ", "|",
+									" + ", "|")
+								newItem.Volume = strings.Split(replacer.Replace(strings.TrimSpace(g.Text)), "|")
 							}
 						})
 						if chapterIndex == -1 {
-							newItem.chapter = chapterNum
+							newItem.Chapter = chapterNum
 						}
-						if newItem.difficulty != 0 {
-							items[newItem.item] = newItem
+						if newItem.Difficulty != 0 {
+							items[newItem.ItemName] = newItem
 						}
 					}
 				})
@@ -108,7 +118,10 @@ func ScrapeCraft(craftToScrape string) map[string]*CraftItem {
 		fmt.Println("Visiting", r.URL)
 	})
 
-	c.Visit(url)
+	err := c.Visit(url)
+	if err != nil {
+		panic(err)
+	}
 
 	return items
 }
