@@ -1,4 +1,5 @@
 # Makefile for epedia web scraper
+.PHONY test ensure clean
 build: clean ensure test
 	@echo "Building..."
 	go build

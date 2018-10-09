@@ -19,7 +19,7 @@ var runCmd = &cobra.Command{
 	Use: "run",
 	Run: func(cmd *cobra.Command, args []string) {
 		switch Scrape {
-		case "Crafts":
+		case "crafts":
 			var allCraft = make(map[string]map[string]scraper.CraftItem)
 			for _, craft := range scraper.CraftsToScrape {
 				craftItemsMaps := scraper.ScrapeCraft(craft)
@@ -32,7 +32,7 @@ var runCmd = &cobra.Command{
 			}
 
 			writeJsonToFile("craftItems.json", jsonData)
-		case "Critters":
+		case "critters":
 			allCritters := scraper.ScrapeCritters()
 
 			jsonData, err := json.MarshalIndent(allCritters, "", "  ")

@@ -1,0 +1,6726 @@
+{
+  "Adan'f blood warrior": {
+    "name": "Adan'f blood warrior",
+    "min_cap": 250,
+    "max_cap": 325,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Adan'f shadow mage": {
+    "name": "Adan'f shadow mage",
+    "min_cap": 250,
+    "max_cap": 370,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Adan'f spirit dancer": {
+    "name": "Adan'f spirit dancer",
+    "min_cap": 380,
+    "max_cap": 600,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Adult desert armadillo": {
+    "name": "Adult desert armadillo",
+    "min_cap": 725,
+    "max_cap": 0,
+    "body_type": "quadruped",
+    "places": [
+      "M'Riss",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Adult razortusk boar": {
+    "name": "Adult razortusk boar",
+    "min_cap": 100,
+    "max_cap": 130,
+    "body_type": "quadruped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Adult razortusk sow": {
+    "name": "Adult razortusk sow",
+    "min_cap": 80,
+    "max_cap": 105,
+    "body_type": "quadruped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Adult wyvern": {
+    "name": "Adult wyvern",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Albino cave fish": {
+    "name": "Albino cave fish",
+    "min_cap": 50,
+    "max_cap": 100,
+    "body_type": "unknown",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Alley thug": {
+    "name": "Alley thug",
+    "min_cap": 140,
+    "max_cap": 230,
+    "body_type": "biped",
+    "places": [
+      "Throne City",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Angiswaerd hatchling": {
+    "name": "Angiswaerd hatchling",
+    "min_cap": 180,
+    "max_cap": 250,
+    "body_type": "ophidian",
+    "places": [
+      "Throne City",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Antelope": {
+    "name": "Antelope",
+    "min_cap": 20,
+    "max_cap": 43,
+    "body_type": "quadruped",
+    "places": [
+      "Horse Clan",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Arbelog": {
+    "name": "Arbelog",
+    "min_cap": 50,
+    "max_cap": 85,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Armored shalswar": {
+    "name": "Armored shalswar",
+    "min_cap": 300,
+    "max_cap": 400,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Armored warklin": {
+    "name": "Armored warklin",
+    "min_cap": 400,
+    "max_cap": 600,
+    "body_type": "insect",
+    "places": [
+      "Stone Clan",
+      "Ratha",
+      "Qi'Reshalia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Arthelun cabalist": {
+    "name": "Arthelun cabalist",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Asaren celpeze (1)": {
+    "name": "Asaren celpeze (1)",
+    "min_cap": 400,
+    "max_cap": 620,
+    "body_type": "quadruped",
+    "places": [
+      "Mer'kresh",
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Asaren celpeze (2)": {
+    "name": "Asaren celpeze (2)",
+    "min_cap": 450,
+    "max_cap": 620,
+    "body_type": "quadruped",
+    "places": [
+      "Mer'kresh",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Asaren celpeze (3)": {
+    "name": "Asaren celpeze (3)",
+    "min_cap": 500,
+    "max_cap": 620,
+    "body_type": "quadruped",
+    "places": [
+      "Mer'kresh",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Asaren celpeze (4)": {
+    "name": "Asaren celpeze (4)",
+    "min_cap": 550,
+    "max_cap": 800,
+    "body_type": "quadruped",
+    "places": [
+      "Mer'kresh",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Ashu hhinvi": {
+    "name": "Ashu hhinvi",
+    "min_cap": 500,
+    "max_cap": 700,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Baby forest gryphon": {
+    "name": "Baby forest gryphon",
+    "min_cap": 250,
+    "max_cap": 350,
+    "body_type": "quadruped",
+    "places": [
+      "Raven's Point",
+      "Rossman's Landing"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Bawdy swain": {
+    "name": "Bawdy swain",
+    "min_cap": 120,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Beisswurm": {
+    "name": "Beisswurm",
+    "min_cap": 50,
+    "max_cap": 65,
+    "body_type": "worm",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Bison": {
+    "name": "Bison",
+    "min_cap": 80,
+    "max_cap": 110,
+    "body_type": "quadruped",
+    "places": [
+      "Horse Clan",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Black ape": {
+    "name": "Black ape",
+    "min_cap": 490,
+    "max_cap": 750,
+    "body_type": "unknown",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Black bear": {
+    "name": "Black bear",
+    "min_cap": 45,
+    "max_cap": 59,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Black goblin": {
+    "name": "Black goblin",
+    "min_cap": 460,
+    "max_cap": 720,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Black marble gargoyle": {
+    "name": "Black marble gargoyle",
+    "min_cap": 300,
+    "max_cap": 540,
+    "body_type": "unknown",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": true
+  },
+  "Blacktip shark": {
+    "name": "Blacktip shark",
+    "min_cap": 170,
+    "max_cap": 280,
+    "body_type": "fish",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blood dryad": {
+    "name": "Blood dryad",
+    "min_cap": 25,
+    "max_cap": 40,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blood nyad": {
+    "name": "Blood nyad",
+    "min_cap": 25,
+    "max_cap": 40,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blood wolf (1)": {
+    "name": "Blood wolf (1)",
+    "min_cap": 60,
+    "max_cap": 75,
+    "body_type": "quadruped",
+    "places": [
+      "Wolf Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blood wolf (2)": {
+    "name": "Blood wolf (2)",
+    "min_cap": 75,
+    "max_cap": 90,
+    "body_type": "quadruped",
+    "places": [
+      "Delkai's Store",
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blue-belly crocodile": {
+    "name": "Blue-belly crocodile",
+    "min_cap": 100,
+    "max_cap": 140,
+    "body_type": "quadruped",
+    "places": [
+      "Shard",
+      "Throne City",
+      "Greater Fist of Heaven",
+      "Ilithi",
+      "Therengia",
+      "Zoluren",
+      "Dirge"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blue-dappled prereni": {
+    "name": "Blue-dappled prereni",
+    "min_cap": 180,
+    "max_cap": 250,
+    "body_type": "unknown",
+    "places": [
+      "Ilithi",
+      "Shard"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blue-green pivuh": {
+    "name": "Blue-green pivuh",
+    "min_cap": 220,
+    "max_cap": 360,
+    "body_type": "unknown",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Blueclaw sand crab": {
+    "name": "Blueclaw sand crab",
+    "min_cap": 55,
+    "max_cap": 80,
+    "body_type": "crustacean",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Bobcat": {
+    "name": "Bobcat",
+    "min_cap": 45,
+    "max_cap": 65,
+    "body_type": "quadruped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Crossing",
+      "Qi'Reshalia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Bone wolf": {
+    "name": "Bone wolf",
+    "min_cap": 55,
+    "max_cap": 73,
+    "body_type": "quadruped",
+    "places": [
+      "Delkai's Store",
+      "Leth Deriel",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Bone wyvern": {
+    "name": "Bone wyvern",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Boobrie": {
+    "name": "Boobrie",
+    "min_cap": 50,
+    "max_cap": 75,
+    "body_type": "avian",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Bristle-backed peccary": {
+    "name": "Bristle-backed peccary",
+    "min_cap": 280,
+    "max_cap": 405,
+    "body_type": "quadruped",
+    "places": [
+      "Rossman's Landing",
+      "M'Riss",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Brown bear": {
+    "name": "Brown bear",
+    "min_cap": 45,
+    "max_cap": 59,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Brown burrower": {
+    "name": "Brown burrower",
+    "min_cap": 18,
+    "max_cap": 42,
+    "body_type": "insect",
+    "places": [
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Bull shark": {
+    "name": "Bull shark",
+    "min_cap": 180,
+    "max_cap": 320,
+    "body_type": "fish",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Cadaverous yeehar": {
+    "name": "Cadaverous yeehar",
+    "min_cap": 150,
+    "max_cap": 300,
+    "body_type": "quadruped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Caracal": {
+    "name": "Caracal",
+    "min_cap": 225,
+    "max_cap": 345,
+    "body_type": "quadruped",
+    "places": [
+      "M'Riss",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Cave bear": {
+    "name": "Cave bear",
+    "min_cap": 45,
+    "max_cap": 65,
+    "body_type": "quadruped",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Cave troll": {
+    "name": "Cave troll",
+    "min_cap": 240,
+    "max_cap": 375,
+    "body_type": "biped",
+    "places": [
+      "Ain Ghazal",
+      "Dirge",
+      "Forfedhdar",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Clouded arzumos": {
+    "name": "Clouded arzumos",
+    "min_cap": 230,
+    "max_cap": 340,
+    "body_type": "quadruped",
+    "places": [
+      "Horse Clan",
+      "Hara'jaal",
+      "Ilithi",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Copperhead viper": {
+    "name": "Copperhead viper",
+    "min_cap": 55,
+    "max_cap": 70,
+    "body_type": "unknown",
+    "places": [
+      "Zoluren",
+      "Sunfall Hub"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Corpse grub": {
+    "name": "Corpse grub",
+    "min_cap": 25,
+    "max_cap": 45,
+    "body_type": "worm",
+    "places": [
+      "Riverhaven",
+      "Dirge",
+      "Tiger Clan",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Corsair": {
+    "name": "Corsair",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Cougar": {
+    "name": "Cougar",
+    "min_cap": 30,
+    "max_cap": 49,
+    "body_type": "quadruped",
+    "places": [
+      "Wolf Clan",
+      "Leth Deriel",
+      "Therenborough",
+      "Langenfirth",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Crag": {
+    "name": "Crag",
+    "min_cap": 160,
+    "max_cap": 185,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Crazed madman": {
+    "name": "Crazed madman",
+    "min_cap": 15,
+    "max_cap": 45,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Croff pothanit": {
+    "name": "Croff pothanit",
+    "min_cap": 22,
+    "max_cap": 39,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Crypt fiend": {
+    "name": "Crypt fiend",
+    "min_cap": 100,
+    "max_cap": 145,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Cutthroat (creature)": {
+    "name": "Cutthroat (creature)",
+    "min_cap": 110,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Crossing",
+      "Ilithi",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Damaska boar": {
+    "name": "Damaska boar",
+    "min_cap": 0,
+    "max_cap": 400,
+    "body_type": "quadruped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dark fiend": {
+    "name": "Dark fiend",
+    "min_cap": 70,
+    "max_cap": 90,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Dark spirit": {
+    "name": "Dark spirit",
+    "min_cap": 130,
+    "max_cap": 170,
+    "body_type": "biped",
+    "places": [
+      "Tiger Clan",
+      "Ker'Leor",
+      "Ratha",
+      "Qi'Reshalia",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Dark sprite (1)": {
+    "name": "Dark sprite (1)",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dark sprite (2)": {
+    "name": "Dark sprite (2)",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dark sprite (3)": {
+    "name": "Dark sprite (3)",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Deer": {
+    "name": "Deer",
+    "min_cap": 25,
+    "max_cap": 45,
+    "body_type": "quadruped",
+    "places": [
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dire bear": {
+    "name": "Dire bear",
+    "min_cap": 120,
+    "max_cap": 170,
+    "body_type": "unknown",
+    "places": [
+      "Wolf Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dobek moruryn": {
+    "name": "Dobek moruryn",
+    "min_cap": 300,
+    "max_cap": 450,
+    "body_type": "insect",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest assassin": {
+    "name": "Dragon Priest assassin",
+    "min_cap": 750,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest crone": {
+    "name": "Dragon Priest crone",
+    "min_cap": 300,
+    "max_cap": 425,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest fanatic": {
+    "name": "Dragon Priest fanatic",
+    "min_cap": 55,
+    "max_cap": 90,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest intercessor": {
+    "name": "Dragon Priest intercessor",
+    "min_cap": 950,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest juggernaut": {
+    "name": "Dragon Priest juggernaut",
+    "min_cap": 400,
+    "max_cap": 500,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest purifier": {
+    "name": "Dragon Priest purifier",
+    "min_cap": 350,
+    "max_cap": 490,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest sentinel": {
+    "name": "Dragon Priest sentinel",
+    "min_cap": 300,
+    "max_cap": 460,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dragon Priest zealot": {
+    "name": "Dragon Priest zealot",
+    "min_cap": 400,
+    "max_cap": 520,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Drowned one": {
+    "name": "Drowned one",
+    "min_cap": 90,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Fang Cove",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Dryad priestess": {
+    "name": "Dryad priestess",
+    "min_cap": 175,
+    "max_cap": 220,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dusk Ogre": {
+    "name": "Dusk Ogre",
+    "min_cap": 60,
+    "max_cap": 75,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Dusky scythewing moth": {
+    "name": "Dusky scythewing moth",
+    "min_cap": 150,
+    "max_cap": 190,
+    "body_type": "insect",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Eidolon steed": {
+    "name": "Eidolon steed",
+    "min_cap": 100,
+    "max_cap": 125,
+    "body_type": "quadruped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Elba Darvager": {
+    "name": "Elba Darvager",
+    "min_cap": 270,
+    "max_cap": 325,
+    "body_type": "biped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Elder blue-dappled prereni": {
+    "name": "Elder blue-dappled prereni",
+    "min_cap": 250,
+    "max_cap": 300,
+    "body_type": "unknown",
+    "places": [
+      "Ilithi",
+      "Shard"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Elder desert armadillo": {
+    "name": "Elder desert armadillo",
+    "min_cap": 700,
+    "max_cap": 0,
+    "body_type": "quadruped",
+    "places": [
+      "M'Riss",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Elder red brocket deer": {
+    "name": "Elder red brocket deer",
+    "min_cap": 200,
+    "max_cap": 260,
+    "body_type": "quadruped",
+    "places": [
+      "Siksraja",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Emaciated umbramagus": {
+    "name": "Emaciated umbramagus",
+    "min_cap": 250,
+    "max_cap": 340,
+    "body_type": "humanoid",
+    "places": [
+      "Taisgath",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Endrus serpent": {
+    "name": "Endrus serpent",
+    "min_cap": 70,
+    "max_cap": 90,
+    "body_type": "ophidian",
+    "places": [
+      "Zoluren",
+      "Leth Deriel"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Enraged tusky": {
+    "name": "Enraged tusky",
+    "min_cap": 500,
+    "max_cap": 750,
+    "body_type": "quadruped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Faenrae assassin": {
+    "name": "Faenrae assassin",
+    "min_cap": 375,
+    "max_cap": 500,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Faenrae reaver": {
+    "name": "Faenrae reaver",
+    "min_cap": 35,
+    "max_cap": 52,
+    "body_type": "biped",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Faenrae stalker": {
+    "name": "Faenrae stalker",
+    "min_cap": 225,
+    "max_cap": 300,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Fell hog": {
+    "name": "Fell hog",
+    "min_cap": 10,
+    "max_cap": 40,
+    "body_type": "quadruped",
+    "places": [
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Fendryad": {
+    "name": "Fendryad",
+    "min_cap": 190,
+    "max_cap": 280,
+    "body_type": "biped",
+    "places": [
+      "Langenfirth",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Feral bone mastiff": {
+    "name": "Feral bone mastiff",
+    "min_cap": 245,
+    "max_cap": 310,
+    "body_type": "quadruped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Field goblin": {
+    "name": "Field goblin",
+    "min_cap": 17,
+    "max_cap": 42,
+    "body_type": "biped",
+    "places": [
+      "Tiger Clan",
+      "Shard",
+      "Ilithi",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Fire maiden": {
+    "name": "Fire maiden",
+    "min_cap": 80,
+    "max_cap": 100,
+    "body_type": "biped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Fire sprite": {
+    "name": "Fire sprite",
+    "min_cap": 60,
+    "max_cap": 75,
+    "body_type": "biped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Fledgling forest gryphon (1)": {
+    "name": "Fledgling forest gryphon (1)",
+    "min_cap": 250,
+    "max_cap": 380,
+    "body_type": "unknown",
+    "places": [
+      "Rossman's Landing",
+      "Raven's Point",
+      "Forfedhdar",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Fledgling forest gryphon (2)": {
+    "name": "Fledgling forest gryphon (2)",
+    "min_cap": 280,
+    "max_cap": 400,
+    "body_type": "unknown",
+    "places": [
+      "Rossman's Landing",
+      "Raven's Point",
+      "Forfedhdar",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Footpad (creature)": {
+    "name": "Footpad (creature)",
+    "min_cap": 110,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Shard",
+      "Ilithi",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Forager goblin": {
+    "name": "Forager goblin",
+    "min_cap": 12,
+    "max_cap": 34,
+    "body_type": "biped",
+    "places": [
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Forest geni": {
+    "name": "Forest geni",
+    "min_cap": 250,
+    "max_cap": 350,
+    "body_type": "biped",
+    "places": [
+      "Stone Clan",
+      "Zoluren",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Frail darkened silhouette": {
+    "name": "Frail darkened silhouette",
+    "min_cap": 220,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Taisgath",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Frost angiswaerd": {
+    "name": "Frost angiswaerd",
+    "min_cap": 260,
+    "max_cap": 340,
+    "body_type": "ophidian",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Frostweaver": {
+    "name": "Frostweaver",
+    "min_cap": 180,
+    "max_cap": 260,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Aesry Surlaenis'a",
+      "Ilithi",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Frostweyr bear": {
+    "name": "Frostweyr bear",
+    "min_cap": 175,
+    "max_cap": 225,
+    "body_type": "quadruped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Fuligin umbral moth": {
+    "name": "Fuligin umbral moth",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Gam chaga": {
+    "name": "Gam chaga",
+    "min_cap": 300,
+    "max_cap": 450,
+    "body_type": "unknown",
+    "places": [
+      "Muspar'i",
+      "Therengia",
+      "Velaka Desert"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": true
+  },
+  "Gargantuan bone golem": {
+    "name": "Gargantuan bone golem",
+    "min_cap": 325,
+    "max_cap": 380,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Gatekeeper skeleton": {
+    "name": "Gatekeeper skeleton",
+    "min_cap": 0,
+    "max_cap": 85,
+    "body_type": "biped",
+    "places": [
+      "Delkai's Store",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Gaunt shadow master": {
+    "name": "Gaunt shadow master",
+    "min_cap": 220,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Taisgath",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Ghoul": {
+    "name": "Ghoul",
+    "min_cap": 26,
+    "max_cap": 44,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Ghoul crow": {
+    "name": "Ghoul crow",
+    "min_cap": 130,
+    "max_cap": 175,
+    "body_type": "avian",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Ghoul raven": {
+    "name": "Ghoul raven",
+    "min_cap": 260,
+    "max_cap": 400,
+    "body_type": "avian",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Giant black leucro": {
+    "name": "Giant black leucro",
+    "min_cap": 160,
+    "max_cap": 215,
+    "body_type": "quadruped",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Giant blade spider": {
+    "name": "Giant blade spider",
+    "min_cap": 300,
+    "max_cap": 400,
+    "body_type": "arachnid",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Giant blight bat": {
+    "name": "Giant blight bat",
+    "min_cap": 90,
+    "max_cap": 170,
+    "body_type": "avian",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Giant blight ogre": {
+    "name": "Giant blight ogre",
+    "min_cap": 180,
+    "max_cap": 250,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Giant gatekeeper skeleton": {
+    "name": "Giant gatekeeper skeleton",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Delkai's Store",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Giant mechanical mouse": {
+    "name": "Giant mechanical mouse",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Giant snow hawk": {
+    "name": "Giant snow hawk",
+    "min_cap": 460,
+    "max_cap": 670,
+    "body_type": "avian",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Giant thicket viper": {
+    "name": "Giant thicket viper",
+    "min_cap": 125,
+    "max_cap": 165,
+    "body_type": "ophidian",
+    "places": [
+      "Riverhaven",
+      "Stone Clan",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Giant wasp": {
+    "name": "Giant wasp",
+    "min_cap": 35,
+    "max_cap": 50,
+    "body_type": "insect",
+    "places": [
+      "Tiger Clan",
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Giant wolf spider": {
+    "name": "Giant wolf spider",
+    "min_cap": 70,
+    "max_cap": 98,
+    "body_type": "arachnid",
+    "places": [
+      "Riverhaven",
+      "Therenborough",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Glistening scythewing karva": {
+    "name": "Glistening scythewing karva",
+    "min_cap": 85,
+    "max_cap": 100,
+    "body_type": "worm",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Glistening scythewing larva": {
+    "name": "Glistening scythewing larva",
+    "min_cap": 85,
+    "max_cap": 100,
+    "body_type": "worm",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Glutinous lipopod": {
+    "name": "Glutinous lipopod",
+    "min_cap": 32,
+    "max_cap": 50,
+    "body_type": "worm",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Goblin shaman": {
+    "name": "Goblin shaman",
+    "min_cap": 20,
+    "max_cap": 50,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Tiger Clan",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Goblin zombie": {
+    "name": "Goblin zombie",
+    "min_cap": 15,
+    "max_cap": 45,
+    "body_type": "biped",
+    "places": [
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Gold-taloned elder forest gryphon": {
+    "name": "Gold-taloned elder forest gryphon",
+    "min_cap": 380,
+    "max_cap": 600,
+    "body_type": "unknown",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Golden pard": {
+    "name": "Golden pard",
+    "min_cap": 180,
+    "max_cap": 240,
+    "body_type": "quadruped",
+    "places": [
+      "Horse Clan",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Golden scaled atik'et": {
+    "name": "Golden scaled atik'et",
+    "min_cap": 120,
+    "max_cap": 170,
+    "body_type": "biped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Granite gargoyle": {
+    "name": "Granite gargoyle",
+    "min_cap": 95,
+    "max_cap": 125,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Crossing",
+      "Zoluren",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Grass eel": {
+    "name": "Grass eel",
+    "min_cap": 25,
+    "max_cap": 50,
+    "body_type": "ophidian",
+    "places": [
+      "Crossing",
+      "Riverhaven",
+      "Shard",
+      "Horse Clan",
+      "Therengia",
+      "Zoluren",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Grave worm": {
+    "name": "Grave worm",
+    "min_cap": 90,
+    "max_cap": 130,
+    "body_type": "worm",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Graverobber (1)": {
+    "name": "Graverobber (1)",
+    "min_cap": 100,
+    "max_cap": 125,
+    "body_type": "biped",
+    "places": [
+      "Ain Ghazal",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Graverobber (2)": {
+    "name": "Graverobber (2)",
+    "min_cap": 270,
+    "max_cap": 380,
+    "body_type": "biped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Greater ghoul raven": {
+    "name": "Greater ghoul raven",
+    "min_cap": 350,
+    "max_cap": 0,
+    "body_type": "avian",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Greater shadow hound": {
+    "name": "Greater shadow hound",
+    "min_cap": 270,
+    "max_cap": 380,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Greater sluagh": {
+    "name": "Greater sluagh",
+    "min_cap": 280,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Grey and tan mottled westanuryn": {
+    "name": "Grey and tan mottled westanuryn",
+    "min_cap": 120,
+    "max_cap": 170,
+    "body_type": "insect",
+    "places": [
+      "Greater Fist of Heaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Grey clay archer": {
+    "name": "Grey clay archer",
+    "min_cap": 180,
+    "max_cap": 240,
+    "body_type": "biped",
+    "places": [
+      "Siksraja",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Grey clay mage": {
+    "name": "Grey clay mage",
+    "min_cap": 175,
+    "max_cap": 250,
+    "body_type": "biped",
+    "places": [
+      "Siksraja",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Grey clay soldier": {
+    "name": "Grey clay soldier",
+    "min_cap": 150,
+    "max_cap": 240,
+    "body_type": "biped",
+    "places": [
+      "Siksraja",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Grizzled red leucro": {
+    "name": "Grizzled red leucro",
+    "min_cap": 200,
+    "max_cap": 225,
+    "body_type": "quadruped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Gypsy marauder": {
+    "name": "Gypsy marauder",
+    "min_cap": 100,
+    "max_cap": 125,
+    "body_type": "biped",
+    "places": [
+      "Therenborough",
+      "Ker'Leor",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Heggarangi boar": {
+    "name": "Heggarangi boar",
+    "min_cap": 150,
+    "max_cap": 200,
+    "body_type": "quadruped",
+    "places": [
+      "Throne City",
+      "Hara'jaal",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Heggarangi frog": {
+    "name": "Heggarangi frog",
+    "min_cap": 0,
+    "max_cap": 26,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Horse (creature)": {
+    "name": "Horse (creature)",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "quadruped",
+    "places": [
+      "Horse Clan",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Hulking black abrghest": {
+    "name": "Hulking black abrghest",
+    "min_cap": 210,
+    "max_cap": 290,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Hulking black barghest": {
+    "name": "Hulking black barghest",
+    "min_cap": 210,
+    "max_cap": 290,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Ice archon": {
+    "name": "Ice archon",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": true
+  },
+  "Icy blue ghast": {
+    "name": "Icy blue ghast",
+    "min_cap": 280,
+    "max_cap": 430,
+    "body_type": "unknown",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Immature firecat": {
+    "name": "Immature firecat",
+    "min_cap": 90,
+    "max_cap": 125,
+    "body_type": "quadruped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Inkhorne": {
+    "name": "Inkhorne",
+    "min_cap": 20,
+    "max_cap": 45,
+    "body_type": "quadruped",
+    "places": [
+      "Stone Clan",
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Isundjen conjurer": {
+    "name": "Isundjen conjurer",
+    "min_cap": 360,
+    "max_cap": 500,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia",
+      "Lake Ratamipak",
+      "Velaka Desert"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Jackal (creature)": {
+    "name": "Jackal (creature)",
+    "min_cap": 36,
+    "max_cap": 50,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Shard",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Jeol moradu": {
+    "name": "Jeol moradu",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Juvenile desert armadillo": {
+    "name": "Juvenile desert armadillo",
+    "min_cap": 600,
+    "max_cap": 740,
+    "body_type": "quadruped",
+    "places": [
+      "M'Riss",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Juvenile wyvern": {
+    "name": "Juvenile wyvern",
+    "min_cap": 700,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Kather warrior": {
+    "name": "Kather warrior",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Quests"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Kelpie": {
+    "name": "Kelpie",
+    "min_cap": 35,
+    "max_cap": 50,
+    "body_type": "biped",
+    "places": [
+      "Langenfirth",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Kobold": {
+    "name": "Kobold",
+    "min_cap": 36,
+    "max_cap": 49,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Kra'hei": {
+    "name": "Kra'hei",
+    "min_cap": 300,
+    "max_cap": 400,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Kra'hei hatchling": {
+    "name": "Kra'hei hatchling",
+    "min_cap": 130,
+    "max_cap": 210,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Lachmate": {
+    "name": "Lachmate",
+    "min_cap": 150,
+    "max_cap": 250,
+    "body_type": "unknown",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Lanky grey lach": {
+    "name": "Lanky grey lach",
+    "min_cap": 190,
+    "max_cap": 280,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Large brown spider": {
+    "name": "Large brown spider",
+    "min_cap": 36,
+    "max_cap": 51,
+    "body_type": "insect",
+    "places": [
+      "Tiger Clan",
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Large musk hog": {
+    "name": "Large musk hog",
+    "min_cap": 15,
+    "max_cap": 35,
+    "body_type": "quadruped",
+    "places": [
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Lava drake": {
+    "name": "Lava drake",
+    "min_cap": 900,
+    "max_cap": 0,
+    "body_type": "quadruped",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Lesser North Wind banshee": {
+    "name": "Lesser North Wind banshee",
+    "min_cap": 900,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Lesser dusky-scaled basilisk": {
+    "name": "Lesser dusky-scaled basilisk",
+    "min_cap": 300,
+    "max_cap": 520,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Lesser shadow hound": {
+    "name": "Lesser shadow hound",
+    "min_cap": 160,
+    "max_cap": 210,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Lesser skeleton": {
+    "name": "Lesser skeleton",
+    "min_cap": 12,
+    "max_cap": 28,
+    "body_type": "biped",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Lesser sluagh (1)": {
+    "name": "Lesser sluagh (1)",
+    "min_cap": 70,
+    "max_cap": 110,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Lesser sluagh (2)": {
+    "name": "Lesser sluagh (2)",
+    "min_cap": 100,
+    "max_cap": 160,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Lesser sluagh (3)": {
+    "name": "Lesser sluagh (3)",
+    "min_cap": 150,
+    "max_cap": 200,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Lithe blight ogre": {
+    "name": "Lithe blight ogre",
+    "min_cap": 140,
+    "max_cap": 170,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Long-fanged warcat": {
+    "name": "Long-fanged warcat",
+    "min_cap": 220,
+    "max_cap": 300,
+    "body_type": "quadruped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Lun'Shele hunter": {
+    "name": "Lun'Shele hunter",
+    "min_cap": 310,
+    "max_cap": 430,
+    "body_type": "biped",
+    "places": [
+      "M'Riss",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Lun'Shele trekhalo": {
+    "name": "Lun'Shele trekhalo",
+    "min_cap": 370,
+    "max_cap": 530,
+    "body_type": "biped",
+    "places": [
+      "M'Riss",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Maelshyvean cinder beast": {
+    "name": "Maelshyvean cinder beast",
+    "min_cap": 350,
+    "max_cap": 570,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Maelshyvean shadow beast": {
+    "name": "Maelshyvean shadow beast",
+    "min_cap": 320,
+    "max_cap": 650,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Malodorous bucca": {
+    "name": "Malodorous bucca",
+    "min_cap": 50,
+    "max_cap": 65,
+    "body_type": "biped",
+    "places": [
+      "Forfedhdar",
+      "Zoluren",
+      "Sunfall Hub",
+      "Raven's Point"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Marbled angiswaerd": {
+    "name": "Marbled angiswaerd",
+    "min_cap": 300,
+    "max_cap": 400,
+    "body_type": "ophidian",
+    "places": [
+      "Throne City",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Meadow ram": {
+    "name": "Meadow ram",
+    "min_cap": 45,
+    "max_cap": 70,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Riverhaven",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Merrows": {
+    "name": "Merrows",
+    "min_cap": 120,
+    "max_cap": 150,
+    "body_type": "unknown",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Misenseor resuscitant": {
+    "name": "Misenseor resuscitant",
+    "min_cap": 550,
+    "max_cap": 800,
+    "body_type": "biped",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Miserly Moneygrubber": {
+    "name": "Miserly Moneygrubber",
+    "min_cap": 100,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Misshapen germish'din": {
+    "name": "Misshapen germish'din",
+    "min_cap": 330,
+    "max_cap": 520,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Morah creeper": {
+    "name": "Morah creeper",
+    "min_cap": 70,
+    "max_cap": 140,
+    "body_type": "plant",
+    "places": [
+      "Therenborough",
+      "Ker'Leor",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Morah vine": {
+    "name": "Morah vine",
+    "min_cap": 70,
+    "max_cap": 120,
+    "body_type": "plant",
+    "places": [
+      "Therenborough",
+      "Ker'Leor",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Moss mey": {
+    "name": "Moss mey",
+    "min_cap": 90,
+    "max_cap": 135,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Mottled westanuryn": {
+    "name": "Mottled westanuryn",
+    "min_cap": 180,
+    "max_cap": 290,
+    "body_type": "insect",
+    "places": [
+      "Greater Fist of Heaven",
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Mountain giant": {
+    "name": "Mountain giant",
+    "min_cap": 375,
+    "max_cap": 530,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Muscular firecat": {
+    "name": "Muscular firecat",
+    "min_cap": 280,
+    "max_cap": 350,
+    "body_type": "quadruped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Musk hog": {
+    "name": "Musk hog",
+    "min_cap": 10,
+    "max_cap": 35,
+    "body_type": "quadruped",
+    "places": [
+      "Tiger Clan",
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Mutant togball": {
+    "name": "Mutant togball",
+    "min_cap": 130,
+    "max_cap": 165,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Nightreaver unyn": {
+    "name": "Nightreaver unyn",
+    "min_cap": 150,
+    "max_cap": 225,
+    "body_type": "unknown",
+    "places": [
+      "Riverhaven",
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Nightstalker unyn": {
+    "name": "Nightstalker unyn",
+    "min_cap": 280,
+    "max_cap": 400,
+    "body_type": "unknown",
+    "places": [
+      "Riverhaven",
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Nightweaver unyn": {
+    "name": "Nightweaver unyn",
+    "min_cap": 100,
+    "max_cap": 188,
+    "body_type": "unknown",
+    "places": [
+      "Riverhaven",
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Nimbus": {
+    "name": "Nimbus",
+    "min_cap": 250,
+    "max_cap": 320,
+    "body_type": "amorphous",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Nipoh oshu (1)": {
+    "name": "Nipoh oshu (1)",
+    "min_cap": 150,
+    "max_cap": 240,
+    "body_type": "amorphous",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Nipoh oshu (2)": {
+    "name": "Nipoh oshu (2)",
+    "min_cap": 170,
+    "max_cap": 290,
+    "body_type": "amorphous",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Nipoh oshu (3)": {
+    "name": "Nipoh oshu (3)",
+    "min_cap": 240,
+    "max_cap": 350,
+    "body_type": "amorphous",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Ochre la'heke": {
+    "name": "Ochre la'heke",
+    "min_cap": 150,
+    "max_cap": 240,
+    "body_type": "unknown",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Orc bandit": {
+    "name": "Orc bandit",
+    "min_cap": 180,
+    "max_cap": 317,
+    "body_type": "biped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Orc clan-chief": {
+    "name": "Orc clan-chief",
+    "min_cap": 400,
+    "max_cap": 500,
+    "body_type": "biped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Orc raider": {
+    "name": "Orc raider",
+    "min_cap": 380,
+    "max_cap": 450,
+    "body_type": "biped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Orc reiver": {
+    "name": "Orc reiver",
+    "min_cap": 280,
+    "max_cap": 350,
+    "body_type": "biped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Orc scout": {
+    "name": "Orc scout",
+    "min_cap": 180,
+    "max_cap": 230,
+    "body_type": "biped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Origami creature": {
+    "name": "Origami creature",
+    "min_cap": 20,
+    "max_cap": 55,
+    "body_type": "unknown",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Pale grey death spirit": {
+    "name": "Pale grey death spirit",
+    "min_cap": 200,
+    "max_cap": 250,
+    "body_type": "unknown",
+    "places": [
+      "Crossing",
+      "Leth Deriel",
+      "Riverhaven",
+      "Ratha",
+      "Qi'Reshalia",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Pale grey death squirrel": {
+    "name": "Pale grey death squirrel",
+    "min_cap": 10,
+    "max_cap": 35,
+    "body_type": "quadruped",
+    "places": [
+      "Arthe Dale",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Peccary": {
+    "name": "Peccary",
+    "min_cap": 225,
+    "max_cap": 300,
+    "body_type": "quadruped",
+    "places": [
+      "M'Riss",
+      "Horse Clan",
+      "Ilithi",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Piranha": {
+    "name": "Piranha",
+    "min_cap": 275,
+    "max_cap": 420,
+    "body_type": "fish",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Pirate (1)": {
+    "name": "Pirate (1)",
+    "min_cap": 140,
+    "max_cap": 200,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Aesry Surlaenis'a",
+      "Riverhaven",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Piruati serpent": {
+    "name": "Piruati serpent",
+    "min_cap": 100,
+    "max_cap": 150,
+    "body_type": "ophidian",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Poloh'izh": {
+    "name": "Poloh'izh",
+    "min_cap": 500,
+    "max_cap": 700,
+    "body_type": "quadruped",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Pugnacious pinchfist": {
+    "name": "Pugnacious pinchfist",
+    "min_cap": 100,
+    "max_cap": 160,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Quartz gargoyle": {
+    "name": "Quartz gargoyle",
+    "min_cap": 135,
+    "max_cap": 190,
+    "body_type": "biped",
+    "places": [
+      "Fang Cove",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Rat": {
+    "name": "Rat",
+    "min_cap": 0,
+    "max_cap": 30,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Riverhaven",
+      "Shard",
+      "Ilithi",
+      "Therengia",
+      "Zoluren",
+      "Fang Cove",
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Red brocket deer": {
+    "name": "Red brocket deer",
+    "min_cap": 135,
+    "max_cap": 180,
+    "body_type": "unknown",
+    "places": [
+      "Siksraja",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Red-Gold scaled atik'et (1)": {
+    "name": "Red-Gold scaled atik'et (1)",
+    "min_cap": 230,
+    "max_cap": 280,
+    "body_type": "biped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Red-Gold scaled atik'et (2)": {
+    "name": "Red-Gold scaled atik'et (2)",
+    "min_cap": 280,
+    "max_cap": 425,
+    "body_type": "biped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Red-bristled gremlin": {
+    "name": "Red-bristled gremlin",
+    "min_cap": 250,
+    "max_cap": 360,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Retan dolomar": {
+    "name": "Retan dolomar",
+    "min_cap": 260,
+    "max_cap": 410,
+    "body_type": "insect",
+    "places": [
+      "Ratha",
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Retch fiend": {
+    "name": "Retch fiend",
+    "min_cap": 125,
+    "max_cap": 175,
+    "body_type": "biped",
+    "places": [
+      "Hibarnhvidar",
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Revenant conscript": {
+    "name": "Revenant conscript",
+    "min_cap": 40,
+    "max_cap": 50,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Revenant zombie": {
+    "name": "Revenant zombie",
+    "min_cap": 45,
+    "max_cap": 59,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Delkai's Store",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Rhoat moda": {
+    "name": "Rhoat moda",
+    "min_cap": 190,
+    "max_cap": 280,
+    "body_type": "unknown",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Ring-necked Gidii": {
+    "name": "Ring-necked Gidii",
+    "min_cap": 15,
+    "max_cap": 44,
+    "body_type": "avian",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "River boa": {
+    "name": "River boa",
+    "min_cap": 275,
+    "max_cap": 350,
+    "body_type": "ophidian",
+    "places": [
+      "Throne City",
+      "Hara'jaal",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "River caiman": {
+    "name": "River caiman",
+    "min_cap": 75,
+    "max_cap": 125,
+    "body_type": "quadruped",
+    "places": [
+      "Throne City",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "River sprite": {
+    "name": "River sprite",
+    "min_cap": 140,
+    "max_cap": 175,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Robed Dragon Priest(ess)": {
+    "name": "Robed Dragon Priest(ess)",
+    "min_cap": 350,
+    "max_cap": 500,
+    "body_type": "biped",
+    "places": [
+      "Horse Clan",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Rock guardian": {
+    "name": "Rock guardian",
+    "min_cap": 180,
+    "max_cap": 260,
+    "body_type": "biped",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": true
+  },
+  "Rock troll (1)": {
+    "name": "Rock troll (1)",
+    "min_cap": 60,
+    "max_cap": 73,
+    "body_type": "biped",
+    "places": [
+      "Kaerna Village",
+      "Shard",
+      "Ilithi",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Rock troll (2)": {
+    "name": "Rock troll (2)",
+    "min_cap": 80,
+    "max_cap": 110,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Rotting deadwood dryad": {
+    "name": "Rotting deadwood dryad",
+    "min_cap": 150,
+    "max_cap": 250,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Ruby-crested adult forest gryphon": {
+    "name": "Ruby-crested adult forest gryphon",
+    "min_cap": 300,
+    "max_cap": 550,
+    "body_type": "unknown",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Ruffian (creature)": {
+    "name": "Ruffian (creature)",
+    "min_cap": 110,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Shard",
+      "Zoluren",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "S'lai scout": {
+    "name": "S'lai scout",
+    "min_cap": 36,
+    "max_cap": 49,
+    "body_type": "biped",
+    "places": [
+      "Stone Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "S'sugi malchata": {
+    "name": "S'sugi malchata",
+    "min_cap": 500,
+    "max_cap": 700,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Shard",
+      "Ilithi",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sabre-toothed warcat": {
+    "name": "Sabre-toothed warcat",
+    "min_cap": 280,
+    "max_cap": 380,
+    "body_type": "quadruped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sailfin lizard": {
+    "name": "Sailfin lizard",
+    "min_cap": 300,
+    "max_cap": 500,
+    "body_type": "quadruped",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Salt crab": {
+    "name": "Salt crab",
+    "min_cap": 25,
+    "max_cap": 42,
+    "body_type": "crustacean",
+    "places": [
+      "Riverhaven",
+      "Fang Cove",
+      "Therengia",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sand spider": {
+    "name": "Sand spider",
+    "min_cap": 80,
+    "max_cap": 100,
+    "body_type": "arachnid",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sand sprite": {
+    "name": "Sand sprite",
+    "min_cap": 50,
+    "max_cap": 73,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Scaly seordmaor": {
+    "name": "Scaly seordmaor",
+    "min_cap": 400,
+    "max_cap": 530,
+    "body_type": "quadruped",
+    "places": [
+      "Ker'Leor",
+      "Hara'jaal",
+      "Qi'Reshalia",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Scarlet crayfish": {
+    "name": "Scarlet crayfish",
+    "min_cap": 15,
+    "max_cap": 38,
+    "body_type": "crustacean",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Scavenger goblin": {
+    "name": "Scavenger goblin",
+    "min_cap": 18,
+    "max_cap": 36,
+    "body_type": "biped",
+    "places": [
+      "Tiger Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Scavenger troll": {
+    "name": "Scavenger troll",
+    "min_cap": 170,
+    "max_cap": 220,
+    "body_type": "biped",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Scout ogre": {
+    "name": "Scout ogre",
+    "min_cap": 120,
+    "max_cap": 160,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Selkie": {
+    "name": "Selkie",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Seordhevor kartais": {
+    "name": "Seordhevor kartais",
+    "min_cap": 180,
+    "max_cap": 230,
+    "body_type": "insect",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Shadefield eviscerator": {
+    "name": "Shadefield eviscerator",
+    "min_cap": 200,
+    "max_cap": 290,
+    "body_type": "unknown",
+    "places": [
+      "Taisgath",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Shadoweaver": {
+    "name": "Shadoweaver",
+    "min_cap": 150,
+    "max_cap": 255,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Shaggy black barghest": {
+    "name": "Shaggy black barghest",
+    "min_cap": 120,
+    "max_cap": 180,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Shifty-eyed skinflint": {
+    "name": "Shifty-eyed skinflint",
+    "min_cap": 100,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sickly blightwater nyad": {
+    "name": "Sickly blightwater nyad",
+    "min_cap": 160,
+    "max_cap": 250,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Silver leucro": {
+    "name": "Silver leucro",
+    "min_cap": 85,
+    "max_cap": 101,
+    "body_type": "quadruped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Silver-backed bear": {
+    "name": "Silver-backed bear",
+    "min_cap": 85,
+    "max_cap": 105,
+    "body_type": "unknown",
+    "places": [
+      "Wolf Clan",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Silver-tipped mature forest gryphon": {
+    "name": "Silver-tipped mature forest gryphon",
+    "min_cap": 315,
+    "max_cap": 0,
+    "body_type": "quadruped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Silverfish": {
+    "name": "Silverfish",
+    "min_cap": 10,
+    "max_cap": 32,
+    "body_type": "insect",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sinister Maelshyvean hierophant": {
+    "name": "Sinister Maelshyvean hierophant",
+    "min_cap": 575,
+    "max_cap": 700,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Sinuous elsralael": {
+    "name": "Sinuous elsralael",
+    "min_cap": 300,
+    "max_cap": 350,
+    "body_type": "quadruped",
+    "places": [
+      "Shard",
+      "Langenfirth",
+      "Ilithi",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sinuous ice adder": {
+    "name": "Sinuous ice adder",
+    "min_cap": 200,
+    "max_cap": 300,
+    "body_type": "skeletal",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Skeletal kobold headhunter": {
+    "name": "Skeletal kobold headhunter",
+    "min_cap": 85,
+    "max_cap": 110,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Skeletal kobold savage": {
+    "name": "Skeletal kobold savage",
+    "min_cap": 85,
+    "max_cap": 110,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Skeletal sailor": {
+    "name": "Skeletal sailor",
+    "min_cap": 210,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Skunk": {
+    "name": "Skunk",
+    "min_cap": 18,
+    "max_cap": 42,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sky giant": {
+    "name": "Sky giant",
+    "min_cap": 600,
+    "max_cap": 750,
+    "body_type": "biped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sleazy lout": {
+    "name": "Sleazy lout",
+    "min_cap": 0,
+    "max_cap": 35,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Shard",
+      "Ilithi",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Sleek hele'la": {
+    "name": "Sleek hele'la",
+    "min_cap": 250,
+    "max_cap": 360,
+    "body_type": "quadruped",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Small boggle": {
+    "name": "Small boggle",
+    "min_cap": 39,
+    "max_cap": 49,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": true
+  },
+  "Small grendel": {
+    "name": "Small grendel",
+    "min_cap": 35,
+    "max_cap": 50,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Small peccary": {
+    "name": "Small peccary",
+    "min_cap": 175,
+    "max_cap": 250,
+    "body_type": "quadruped",
+    "places": [
+      "Langenfirth",
+      "Horse Clan",
+      "Therengia",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Snaer hafwa": {
+    "name": "Snaer hafwa",
+    "min_cap": 350,
+    "max_cap": 500,
+    "body_type": "unknown",
+    "places": [
+      "Dirge",
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Snow goblin (1)": {
+    "name": "Snow goblin (1)",
+    "min_cap": 110,
+    "max_cap": 140,
+    "body_type": "biped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Snow goblin (2)": {
+    "name": "Snow goblin (2)",
+    "min_cap": 130,
+    "max_cap": 154,
+    "body_type": "biped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Snow goblin (3)": {
+    "name": "Snow goblin (3)",
+    "min_cap": 140,
+    "max_cap": 175,
+    "body_type": "biped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Snowbeast": {
+    "name": "Snowbeast",
+    "min_cap": 75,
+    "max_cap": 105,
+    "body_type": "quadruped",
+    "places": [
+      "Leth Deriel",
+      "Shard",
+      "Aesry Surlaenis'a",
+      "Ilithi",
+      "Qi'Reshalia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Spectral pirate": {
+    "name": "Spectral pirate",
+    "min_cap": 250,
+    "max_cap": 325,
+    "body_type": "biped",
+    "places": [
+      "Ratha",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Spider crab": {
+    "name": "Spider crab",
+    "min_cap": 300,
+    "max_cap": 450,
+    "body_type": "crustacean",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Spiny bloodfish (1)": {
+    "name": "Spiny bloodfish (1)",
+    "min_cap": 360,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Mer'kresh",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Spiny bloodfish (2)": {
+    "name": "Spiny bloodfish (2)",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Mer'kresh",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Spiny dyrachis": {
+    "name": "Spiny dyrachis",
+    "min_cap": 140,
+    "max_cap": 200,
+    "body_type": "quadruped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Spotted bobcat": {
+    "name": "Spotted bobcat",
+    "min_cap": 65,
+    "max_cap": 80,
+    "body_type": "quadruped",
+    "places": [
+      "Fang Cove",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Spotted kashika serpent": {
+    "name": "Spotted kashika serpent",
+    "min_cap": 100,
+    "max_cap": 160,
+    "body_type": "ophidian",
+    "places": [
+      "Fang Cove",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Spotted shark": {
+    "name": "Spotted shark",
+    "min_cap": 90,
+    "max_cap": 115,
+    "body_type": "unknown",
+    "places": [
+      "Fang Cove",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Stone-throwing imp": {
+    "name": "Stone-throwing imp",
+    "min_cap": 55,
+    "max_cap": 70,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Storm bull": {
+    "name": "Storm bull",
+    "min_cap": 550,
+    "max_cap": 750,
+    "body_type": "quadruped",
+    "places": [
+      "Ilaya Taipa",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Striped badger": {
+    "name": "Striped badger",
+    "min_cap": 19,
+    "max_cap": 42,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Stumpy blight ogre": {
+    "name": "Stumpy blight ogre",
+    "min_cap": 150,
+    "max_cap": 230,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Sun vulture": {
+    "name": "Sun vulture",
+    "min_cap": 70,
+    "max_cap": 100,
+    "body_type": "avian",
+    "places": [
+      "Delkai's Store",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Supple firecat": {
+    "name": "Supple firecat",
+    "min_cap": 300,
+    "max_cap": 450,
+    "body_type": "quadruped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Hibarnhvidar",
+      "Forfedhdar",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Suw bizar": {
+    "name": "Suw bizar",
+    "min_cap": 70,
+    "max_cap": 90,
+    "body_type": "unknown",
+    "places": [
+      "Fang Cove",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Swamp troll (1)": {
+    "name": "Swamp troll (1)",
+    "min_cap": 120,
+    "max_cap": 160,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Swamp troll (2)": {
+    "name": "Swamp troll (2)",
+    "min_cap": 140,
+    "max_cap": 235,
+    "body_type": "biped",
+    "places": [
+      "Langenfirth",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Swamp troll (3)": {
+    "name": "Swamp troll (3)",
+    "min_cap": 190,
+    "max_cap": 260,
+    "body_type": "biped",
+    "places": [
+      "Langenfirth",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Telga moradu": {
+    "name": "Telga moradu",
+    "min_cap": 360,
+    "max_cap": 400,
+    "body_type": "biped",
+    "places": [
+      "Hara'jaal",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Telga orek": {
+    "name": "Telga orek",
+    "min_cap": 900,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Thug (creature)": {
+    "name": "Thug (creature)",
+    "min_cap": 110,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Shard",
+      "Ilithi",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Thunder ram": {
+    "name": "Thunder ram",
+    "min_cap": 47,
+    "max_cap": 70,
+    "body_type": "quadruped",
+    "places": [
+      "Langenfirth",
+      "Therenborough",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Tiger shark": {
+    "name": "Tiger shark",
+    "min_cap": 190,
+    "max_cap": 290,
+    "body_type": "fish",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Tortured soul (1)": {
+    "name": "Tortured soul (1)",
+    "min_cap": 16,
+    "max_cap": 45,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Tortured soul (2)": {
+    "name": "Tortured soul (2)",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Transparent shylvic": {
+    "name": "Transparent shylvic",
+    "min_cap": 240,
+    "max_cap": 325,
+    "body_type": "ghost",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Treehopper toad": {
+    "name": "Treehopper toad",
+    "min_cap": 300,
+    "max_cap": 370,
+    "body_type": "quadruped",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Trollkin": {
+    "name": "Trollkin",
+    "min_cap": 33,
+    "max_cap": 40,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Troublesome tightwad": {
+    "name": "Troublesome tightwad",
+    "min_cap": 100,
+    "max_cap": 150,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Twisted dryad": {
+    "name": "Twisted dryad",
+    "min_cap": 175,
+    "max_cap": 220,
+    "body_type": "biped",
+    "places": [
+      "Leth Deriel",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Umbral moth": {
+    "name": "Umbral moth",
+    "min_cap": 950,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Ur hhrki'izh (1)": {
+    "name": "Ur hhrki'izh (1)",
+    "min_cap": 180,
+    "max_cap": 230,
+    "body_type": "biped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Ur hhrki'izh (2)": {
+    "name": "Ur hhrki'izh (2)",
+    "min_cap": 225,
+    "max_cap": 275,
+    "body_type": "biped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Vaporous blood wraith": {
+    "name": "Vaporous blood wraith",
+    "min_cap": 320,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Vela'tohr bloodvine": {
+    "name": "Vela'tohr bloodvine",
+    "min_cap": 120,
+    "max_cap": 195,
+    "body_type": "plant",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Velakan slaver": {
+    "name": "Velakan slaver",
+    "min_cap": 225,
+    "max_cap": 360,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Velver": {
+    "name": "Velver",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "biped",
+    "places": [
+      "Fornsted",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Vicious warcat": {
+    "name": "Vicious warcat",
+    "min_cap": 160,
+    "max_cap": 230,
+    "body_type": "quadruped",
+    "places": [
+      "Rossman's Landing",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Vile plague wraith": {
+    "name": "Vile plague wraith",
+    "min_cap": 450,
+    "max_cap": 630,
+    "body_type": "unknown",
+    "places": [
+      "Raven's Point",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Void black umbral moth": {
+    "name": "Void black umbral moth",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Voidspawn (2)": {
+    "name": "Voidspawn (2)",
+    "min_cap": 0,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Taisgath",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Vykathi builder": {
+    "name": "Vykathi builder",
+    "min_cap": 50,
+    "max_cap": 100,
+    "body_type": "insect",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Vykathi excavator": {
+    "name": "Vykathi excavator",
+    "min_cap": 50,
+    "max_cap": 100,
+    "body_type": "insect",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Vykathi harvester": {
+    "name": "Vykathi harvester",
+    "min_cap": 160,
+    "max_cap": 220,
+    "body_type": "insect",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Vykathi reaper": {
+    "name": "Vykathi reaper",
+    "min_cap": 250,
+    "max_cap": 340,
+    "body_type": "insect",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Vykathi soldier": {
+    "name": "Vykathi soldier",
+    "min_cap": 200,
+    "max_cap": 270,
+    "body_type": "insect",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Warklin mauler": {
+    "name": "Warklin mauler",
+    "min_cap": 400,
+    "max_cap": 500,
+    "body_type": "insect",
+    "places": [
+      "Stone Clan",
+      "Ratha",
+      "Qi'Reshalia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Water sprite": {
+    "name": "Water sprite",
+    "min_cap": 28,
+    "max_cap": 45,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Wild boar": {
+    "name": "Wild boar",
+    "min_cap": 18,
+    "max_cap": 42,
+    "body_type": "quadruped",
+    "places": [
+      "Crossing",
+      "Riverhaven",
+      "Therenborough",
+      "Langenfirth",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Wildland goblin": {
+    "name": "Wildland goblin",
+    "min_cap": 17,
+    "max_cap": 42,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Wind hound": {
+    "name": "Wind hound",
+    "min_cap": 35,
+    "max_cap": 73,
+    "body_type": "quadruped",
+    "places": [
+      "Dirge",
+      "Zoluren"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Wir dinego": {
+    "name": "Wir dinego",
+    "min_cap": 300,
+    "max_cap": 400,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Aesry Surlaenis'a",
+      "Qi'Reshalia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Wood Troll (1)": {
+    "name": "Wood Troll (1)",
+    "min_cap": 36,
+    "max_cap": 53,
+    "body_type": "biped",
+    "places": [
+      "Crossing",
+      "Delkai's Store",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Wood Troll (2)": {
+    "name": "Wood Troll (2)",
+    "min_cap": 100,
+    "max_cap": 145,
+    "body_type": "biped",
+    "places": [
+      "Ker'Leor",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Wormwood vine": {
+    "name": "Wormwood vine",
+    "min_cap": 120,
+    "max_cap": 190,
+    "body_type": "plant",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Writhing maiden's tress": {
+    "name": "Writhing maiden's tress",
+    "min_cap": 80,
+    "max_cap": 215,
+    "body_type": "plant",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar archer": {
+    "name": "Xala'shar archer",
+    "min_cap": 900,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar archimage": {
+    "name": "Xala'shar archimage",
+    "min_cap": 900,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar conjurer": {
+    "name": "Xala'shar conjurer",
+    "min_cap": 800,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar magus": {
+    "name": "Xala'shar magus",
+    "min_cap": 750,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar overseer": {
+    "name": "Xala'shar overseer",
+    "min_cap": 950,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar shredder": {
+    "name": "Xala'shar shredder",
+    "min_cap": 950,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar slayer": {
+    "name": "Xala'shar slayer",
+    "min_cap": 900,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Xala'shar thrall": {
+    "name": "Xala'shar thrall",
+    "min_cap": 750,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar vanquisher": {
+    "name": "Xala'shar vanquisher",
+    "min_cap": 800,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": false,
+    "skin": false,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Xala'shar vindicator": {
+    "name": "Xala'shar vindicator",
+    "min_cap": 900,
+    "max_cap": 0,
+    "body_type": "unknown",
+    "places": [
+      "Knife Clan",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Yellow bristled gremlin": {
+    "name": "Yellow bristled gremlin",
+    "min_cap": 280,
+    "max_cap": 410,
+    "body_type": "biped",
+    "places": [
+      "Fang Cove",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": true,
+    "undead": false,
+    "construct": false
+  },
+  "Young blue-dappled prereni": {
+    "name": "Young blue-dappled prereni",
+    "min_cap": 120,
+    "max_cap": 180,
+    "body_type": "quadriped",
+    "places": [
+      "Ilithi",
+      "Shard"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Young cave troll": {
+    "name": "Young cave troll",
+    "min_cap": 85,
+    "max_cap": 170,
+    "body_type": "biped",
+    "places": [
+      "Raven's Point",
+      "Hibarnhvidar",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Young firecat": {
+    "name": "Young firecat",
+    "min_cap": 90,
+    "max_cap": 140,
+    "body_type": "quadruped",
+    "places": [
+      "Greater Fist of Heaven",
+      "Hibarnhvidar",
+      "Forfedhdar",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Young forest gryphon": {
+    "name": "Young forest gryphon",
+    "min_cap": 300,
+    "max_cap": 420,
+    "body_type": "quadruped",
+    "places": [
+      "Rossman's Landing",
+      "Raven's Point",
+      "Forfedhdar",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Young ogre": {
+    "name": "Young ogre",
+    "min_cap": 80,
+    "max_cap": 120,
+    "body_type": "biped",
+    "places": [
+      "Wolf Clan",
+      "Riverhaven",
+      "Therengia",
+      "Zoluren"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Young red brocket deer": {
+    "name": "Young red brocket deer",
+    "min_cap": 90,
+    "max_cap": 130,
+    "body_type": "quadruped",
+    "places": [
+      "Siksraja",
+      "Therengia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Young wyvern": {
+    "name": "Young wyvern",
+    "min_cap": 600,
+    "max_cap": 900,
+    "body_type": "unknown",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": false,
+    "gem": true,
+    "box": false,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Yvhh la'tami": {
+    "name": "Yvhh la'tami",
+    "min_cap": 160,
+    "max_cap": 200,
+    "body_type": "quadruped",
+    "places": [
+      "Aesry Surlaenis'a",
+      "Shard",
+      "Ilithi",
+      "Qi'Reshalia"
+    ],
+    "backstab": false,
+    "gem": false,
+    "box": false,
+    "coin": false,
+    "skin": true,
+    "cursed": false,
+    "undead": false,
+    "construct": false
+  },
+  "Zombie goblin": {
+    "name": "Zombie goblin",
+    "min_cap": 5,
+    "max_cap": 35,
+    "body_type": "biped",
+    "places": [
+      "Riverhaven",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Zombie head-splitter": {
+    "name": "Zombie head-splitter",
+    "min_cap": 600,
+    "max_cap": 733,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Zombie kobold headhunter": {
+    "name": "Zombie kobold headhunter",
+    "min_cap": 85,
+    "max_cap": 110,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Zombie kobold savage": {
+    "name": "Zombie kobold savage",
+    "min_cap": 85,
+    "max_cap": 110,
+    "body_type": "biped",
+    "places": [
+      "Shard",
+      "Ilithi"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": true,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Zombie mauler": {
+    "name": "Zombie mauler",
+    "min_cap": 500,
+    "max_cap": 670,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Zombie nomad": {
+    "name": "Zombie nomad",
+    "min_cap": 260,
+    "max_cap": 410,
+    "body_type": "biped",
+    "places": [
+      "Muspar'i",
+      "Therengia"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  },
+  "Zombie stomper": {
+    "name": "Zombie stomper",
+    "min_cap": 460,
+    "max_cap": 625,
+    "body_type": "biped",
+    "places": [
+      "Boar Clan",
+      "Forfedhdar"
+    ],
+    "backstab": true,
+    "gem": true,
+    "box": true,
+    "coin": true,
+    "skin": false,
+    "cursed": false,
+    "undead": true,
+    "construct": false
+  }
+}
